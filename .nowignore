@@ -1,0 +1,7 @@
+__sapper__
+cypress
+node_modules
+.env
+.vscode
+static/styles.css
+static/styles-pre-tailwind.css
